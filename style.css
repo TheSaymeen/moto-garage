@@ -1,1 +1,10 @@
-
+:root {
+  --noir: #1A1714;
+  --orange: #C85E2A;
+  --orange-dark: #7A3A18;
+  --argent: #A8A9A8;
+  --beton: #F2EFE9;
+  --acier: #3D3B38;
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-mono: 'Courier New', monospace;
+}
